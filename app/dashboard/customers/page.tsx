@@ -1,5 +1,5 @@
 function CustomerPage(){
-    return <p>This is the customer's content within the Dashboard</p>
+    return <p>This is the customers content within the Dashboard</p>
 }
 
 export default CustomerPage
